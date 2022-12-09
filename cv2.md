@@ -1,4 +1,4 @@
-![Ivan Dubrouski](./images/1.jpg)
+![Ivan Dubrouski](../images/1.jpg)
 
                               # Ivan Dubrouski
 
