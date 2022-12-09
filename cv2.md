@@ -70,3 +70,20 @@ I believe that I would be useful to you when I become a member of your team))))
   Medium level
 - **Understanding OOP**
   Medium level
+
+  ### LANGUAGES
+
+* **English** - _B1 Intermediate level (written & spoken)_
+* **Polish** - _Begginer A1_
+* **Russian** - _Native language_
+
+### PERSONAL QUALITIES
+
+1. good communication skills
+2. ability to work in team
+3. creative thinking skills
+4. quick learning skills
+5. self-motivated
+6. responsibility
+7. open-minded
+8. attentive
