@@ -1,4 +1,4 @@
-![Ivan Dubrouski](../images/1.jpg "Ivan Dubrouski")
+![Ivan_Dubrouski](https://law.bsu.by/images/06/196/10134.jpg "Ivan Dubrouski")
 
 # **Ivan Dubrouski**
 
@@ -58,11 +58,11 @@ _I believe that I would be useful to you when I become a member of your team))))
 - **JQuery** - _Medium level_
 - **Understanding OOP** - _Medium level_
 
-  ### LANGUAGES
+### LANGUAGES
 
-* **English** - _B1 Intermediate level (written & spoken)_
-* **Polish** - _Begginer A1_
-* **Russian** - _Native language_
+- **English** - _B1 Intermediate level (written & spoken)_
+- **Polish** - _Begginer A1_
+- **Russian** - _Native language_
 
 ### PERSONAL QUALITIES
 
