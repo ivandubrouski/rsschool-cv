@@ -1,4 +1,4 @@
-![Ivan Dubrouski](../images/1.jpg)
+![Ivan Dubrouski](../images/1.jpg "Ivan Dubrouski")
 
 # **Ivan Dubrouski**
 
@@ -23,13 +23,13 @@
 
 ### SUMMARY
 
-Now I'm working as QA engineer. I want to become a web developer.
+_Now I'm working as QA engineer. I want to become a web developer._
 
-I have a great desire to learn something new.
+_I have a great desire to learn something new._
 
-I've got high level of motivation.
+_I've got high level of motivation._
 
-I believe that I would be useful to you when I become a member of your team))))
+_I believe that I would be useful to you when I become a member of your team))))_
 
 ### EDUCATION
 
@@ -44,32 +44,19 @@ I believe that I would be useful to you when I become a member of your team))))
 
 ### SKILLS
 
-- **C++**
-  Medium: good theoretical knowledge and practical experience
-- **HTML5**
-  Medium: good theoretical knowledge and practical experience
-- **CSS3**
-  Medium: good theoretical knowledge and practical experience
-- **Figma**
-  Medium: good theoretical knowledge and practical experience
-- **Postman**
-  Medium: good theoretical knowledge and practical experience
-- **Fiddler**
-  Medium: good theoretical knowledge and practical experience
-- **Kubernetes (K8)**
-  Medium: good theoretical knowledge and practical experience
-- **Playwright**
-  Medium: good theoretical knowledge and practical experience
-- **SQL**
-  Beginner: basic theoretical knowledge
-- **GIT**
-  Beginner/medium: basic theoretical knowledge and a few practice
-- **Java Script**
-  Medium: good theoretical knowledge and practical experience
-- **JQuery**
-  Medium level
-- **Understanding OOP**
-  Medium level
+- **C++** - _Medium: good theoretical knowledge and practical experience_
+- **HTML5** - _Medium: good theoretical knowledge and practical experience_
+- **CSS3** - _Medium: good theoretical knowledge and practical experience_
+- **Figma** - _Medium: good theoretical knowledge and practical experience_
+- **Postman** - _Medium: good theoretical knowledge and practical experience_
+- **Fiddler** - _Medium: good theoretical knowledge and practical experience_
+- **Kubernetes (K8)** - _Medium: good theoretical knowledge and practical experience_
+- **Playwright** - _Medium: good theoretical knowledge and practical experience_
+- **SQL** - _Beginner: basic theoretical knowledge_
+- **GIT** - _Beginner/medium: basic theoretical knowledge and a few practice_
+- **Java Script** - _Medium: good theoretical knowledge and practical experience_
+- **JQuery** - _Medium level_
+- **Understanding OOP** - _Medium level_
 
   ### LANGUAGES
 
