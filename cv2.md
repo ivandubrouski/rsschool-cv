@@ -23,21 +23,50 @@
 
 ### SUMMARY
 
-\_Now I'm working as QA engineer. I want to become a web developer.
+Now I'm working as QA engineer. I want to become a web developer.
 
 I have a great desire to learn something new.
 
 I've got high level of motivation.
 
-I believe that I would be useful to you when I become a member of your team))))\_
+I believe that I would be useful to you when I become a member of your team))))
 
 ### EDUCATION
 
 |  Duration, year  | Department of education                      |          Where          |
 | :--------------: | :------------------------------------------- | :---------------------: |
 |   2006 - 2011    | _Law faculty_                                |           BSU           |
-| 2016 - still now | \_"Information systems & technologies in BM" |          BSUIR          |
+| 2016 - still now | _"Information systems & technologies in BM"_ |          BSUIR          |
 |  3 months, 2020  | _"HTML, CSS, Java Script"_                   | Education center of HTP |
 |  3 months, 2020  | _"English for IT. Intermediate level"_       | Education center of HTP |
 |  2 months, 2021  | _"QA engineer"_                              |         IT SILA         |
 |  2 months, 2021  | _"HTML, CSS, Java Script"_                   |       STEPIK.ORG        |
+
+### SKILLS
+
+- **C++**
+  Medium: good theoretical knowledge and practical experience
+- **HTML5**
+  Medium: good theoretical knowledge and practical experience
+- **CSS3**
+  Medium: good theoretical knowledge and practical experience
+- **Figma**
+  Medium: good theoretical knowledge and practical experience
+- **Postman**
+  Medium: good theoretical knowledge and practical experience
+- **Fiddler**
+  Medium: good theoretical knowledge and practical experience
+- **Kubernetes (K8)**
+  Medium: good theoretical knowledge and practical experience
+- **Playwright**
+  Medium: good theoretical knowledge and practical experience
+- **SQL**
+  Beginner: basic theoretical knowledge
+- **GIT**
+  Beginner/medium: basic theoretical knowledge and a few practice
+- **Java Script**
+  Medium: good theoretical knowledge and practical experience
+- **JQuery**
+  Medium level
+- **Understanding OOP**
+  Medium level
