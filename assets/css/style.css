@@ -120,7 +120,10 @@ body {
 .icon__text {
   margin-left: 1rem;
 }
-.education {
+.education,
+.experience,
+.work__experience,
+#summary {
   margin-bottom: 3rem;
 }
 .linkedIn__elem2 {
@@ -153,15 +156,24 @@ a:hover {
   width: 75%;
 }
 #summary {
-  margin-top: 25px;
-  line-height: 1.5;
+    line-height: 1.5;
+    margin: 0; 
 }
-#summary h2 {
-  margin: 0;
+
+#summary::after{
+  content:'';
+  display: block;
+  width: 100%;
+  border-top: solid grey 1px;
+  margin-top: 20px;
+
 }
+
+
 #summary p {
   font-size: 15px;
 }
+
 .strong {
   font-weight: bold;
 }
