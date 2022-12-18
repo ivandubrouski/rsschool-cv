@@ -2,173 +2,276 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>CV_Dubrouski_Ivan</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Graduate&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+    />
+    <script
+      src="https://kit.fontawesome.com/3c73ee7cc1.js"
+      crossorigin="anonymous"
+    ></script>
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Oswald&display=swap"
+      rel="stylesheet"
+    />
+    <title>CV</title>
     <link rel="stylesheet" href="assets/css/style.css" />
-    <link rel="icon" href="assets/img/icon.ico" />
   </head>
+
   <body>
     <div class="wrapper">
-      <header>
-        <h1>Ivan Dubrouski</h1>
+      <header class="header">
+        <div class="container">
+          <nav class="navigation">
+            <ul class="navigation__list">
+              <li class="navigation__item">
+                <a href="#contacts">CONTACTS</a>
+              </li>
+              <li class="navigation__item">
+                <a href="#skills">SKILLS</a>
+              </li>
+              <li class="navigation__item">
+                <a href="#languges">LANGUAGES</a>
+              </li>
+              <li class="navigation__item">
+                <a href="#education">EDUCATION</a>
+              </li>
+              <li class="navigation__item">
+                <a href="#courses">COURSES</a>
+              </li>              
+              <li class="navigation__item">
+                <a href="#summary">SUMMARY</a>
+              </li>
+              <li class="navigation__item">
+                <a href=""></a>
+              </li>
+            </ul>
+          </nav>
+        </div>
       </header>
-      <section class="my-photo">
-        <img src="images/my photo.jpg" alt="my Photo" />
-      </section>
-      <section class="personal-info">
-        <h2>Personal information</h2>
-        <table>
-          <tr>
-            <td>Adress:</td>
-            <td>14 Vaneeva str 67, Minsk 220030, Belarus</td>
-          </tr>
-          <tr>
-            <td>Telephone:</td>
-            <td>+375295715148</td>
-          </tr>
-          <tr>
-            <td>E-mail:</td>
-            <td>ivan.dubrouski@gmail.com</td>
-          </tr>
-          <tr>
-            <td>Skype:</td>
-            <td>ivan_dubrovski</td>
-          </tr>
-          <tr>
-            <td>Date of birth:</td>
-            <td>24th June 1988</td>
-          </tr>
-          <tr>
-            <td>Nationality</td>
-            <td>Belarus</td>
-          </tr>
-        </table>
-      </section>
 
-      <main>
-        <section class="summary">
+      <main class="cv">
+        <section class="about">
+          <figure class="photo">
+            <img src="assets/img/1.jpg" alt="Ivan Dubrouski" />
+          </figure>
+
+          <article class="contacts">
+            <h3 class="contacts__text" id="contacts">contact me</h3>
+            <ul class="contacts__item">
+              <li class="icon">
+                <i class="fas fa-phone-volume"></i>
+              </li>
+              <li class="icon__text">
+                <a href="tel">+375295715148</a>
+              </li>
+            </ul>
+
+            <ul class="contacts__item">
+              <li class="icon">
+                <i class="fa-brands fa-discord"></i>
+              </li>
+              <li class="icon__text">Ivan Dubrouski#0326</li>
+            </ul>
+
+            <ul class="contacts__item">
+              <li class="icon">
+                <i class="fa-brands fa-telegram"></i>
+              </li>
+              <li class="icon__text">
+                <a href="https://t.me/ivan_dubrouski">@ivan_dubrouski</a>
+              </li>
+            </ul>
+
+            <ul class="contacts__item">
+              <li class="icon"><i class="fab fa-skype"></i></li>
+              <li class="icon__text">
+                <a href="skype:ivan_dubrovski">ivan_dubrovski</a>
+              </li>
+            </ul>
+
+            <ul class="contacts__item">
+              <li class="icon"><i class="fa-regular fa-envelope"></i></li>
+              <li class="icon__text">
+                <a href="email">ivan.dubrouski@gmail.com</a>
+              </li>
+            </ul>
+            <ul class="contacts__item">
+              <li class="icon"><i class="fab fa-linkedin"></i></li>
+              <li class="icon__text">
+                <a href="https://linkedin.com/in/ivan-dubrouski">
+                  linkedin.com/in/ivan-dubrouski
+                </a>
+              </li>
+            </ul>
+          </article>
+          <article class="skills" id="skills">
+            <h3 class="contacts__text">skills</h3>
+            <div class="underlined"></div>
+            <ul class="skills_list">
+              <li>HTML5</li>
+              <li>CSS3, SASS</li>
+              <li>JavaScript</li>
+              <li>Git</li>
+              <li>OOP</li>
+              <li>Figma</li>
+              <li>Postman</li>
+              <li>Fiddler</li>
+              <li>Playwright</li>
+              <li>SQL</li>
+              <li>JQuery</li>
+              <li>English: A2+</li>
+            </ul>
+
+            <div id="languges">
+              <h3 class="contacts__text">languages</h3>
+              <div class="underlined"></div>
+              <div>
+                <p>English - B1+</p>
+                <p>Polish - A1</p>
+                <p>French - A1</p>
+                <p>Russian - Native</p>
+              </div>
+            </div>
+          </article>
+          <div class="rss"></div>
+        </section>
+        <section class="about-me">
+          <h1>Ivan Dubrouski</h1>
+          <h5>Junior Frontend Developer</h5>
+          <div class="underlined-grey"></div>
+          <article class="education">
+            <h2 id="education">Education</h2>
+            <div class="description">
+              <div class="description__item1">
+                <div>
+                  </span class="strong">2017 - till now</span>
+                </div>
+                <div>
+                  <span class="strong">BSUIR</span>
+                </div>
+              </div>
+              <div class="description__item2">
+                <span >Information systems & technologies in BM</span> 
+              </div>
+            </div>
+            <div class="description">
+              <div class="description__item1">
+                <div>
+                  <span class="strong">2006 - 2011</span>
+                </div>
+                <div>
+                  <span class="strong">BSU</span>
+                </div>
+              </div>
+              <div class="description__item2">
+                <span >Law faculty</span> 
+              </div>
+            </div>
+            
+          </article>
+          <article class="experience" >
+            <h2 id="courses">Courses</h2>
+            <div class="description">
+              <div class="description__item1">
+                <div>
+                  <span class="strong">2021</span>
+                </div>
+                <div>
+                  <span class="strong">www.stepik.org</span>
+                </div>
+              </div>
+              <div class="description__item2">
+                <span>HTML, CSS, Java Script</span>
+              </div>
+            </div>
+            <div class="description">
+              <div class="description__item1">
+                <div>
+                  <span class="strong">2021</span>
+                </div>
+                <div>
+                  <span class="strong">IT Sila</span>
+                </div>
+              </div>
+              <div class="description__item2">
+                <span>QA engineer</span>
+              </div>
+            </div>
+            <div class="description">
+              <div class="description__item1">
+                <div>
+                  <span class="strong">2020</span>
+                </div>
+                <div>
+                  <span class="strong">IT Academy</span>
+                </div>
+              </div>
+              <div class="description__item2">
+                <span>English for IT. Intermediate level</span>
+              </div>
+            </div>
+            <div class="description">
+              <div class="description__item1">
+                <span class="strong">2020</span>
+              </div>
+              <div class="description__item2">
+                <span>HTML, CSS, Java Script foundations</span>
+              </div>
+            </div>
+            
+          </article>
           <article>
-            <h2>Summary</h2>
+            <h2 id="summary">Summary</h2>
             <p>
-              I'm an aspiring developer. I have a great desire to learn
-              something new. I have high level of motivation. I believe that I
-              would be useful to you when I become a member of your team))))
+              Now I’m working as QA engineer. I want to become a web
+              developer.<br />
+              I have a great desire to learn something new.<br />
+              I’ve got high level of motivation.<br />
+              I believe that I would be useful to you when I become a member of
+              your team)))) Letter of recommendation from:<br />
             </p>
           </article>
         </section>
-        <section class="education">
-          <h2>Education</h2>
-          <table>
-            <tr>
-              <th>Duration</th>
-              <th>Department of education</th>
-              <th>Where</th>
-            </tr>
-            <tr>
-              <td>Jan 2018 - Mar 2018</td>
-              <td>"Java Script"</td>
-              <td>Education center of HTP</td>
-            </tr>
-            <tr>
-              <td>Sep 2017 - Dec 2018</td>
-              <td>"HTML/CSS/JS Basics"</td>
-              <td>Education center of HTP</td>
-            </tr>
-            <tr>
-              <td>Aug 2017 - Sep 2017</td>
-              <td>"C++"</td>
-              <td>Education center of HTP</td>
-            </tr>
-            <tr>
-              <td>Aug 2017 - Sept 2017</td>
-              <td>"English for IT. Intermediate level"</td>
-              <td>Education center of HTP</td>
-            </tr>
-            <tr>
-              <td>2016 - still now</td>
-              <td>Informational Systems & Techologies in BM</td>
-              <td>BSUIR</td>
-            </tr>
-            <tr>
-              <td>2006 - 2011</td>
-              <td>Law faculty</td>
-              <td>BSU</td>
-            </tr>
-          </table>
-        </section>
-
-        <section class="skills">
-          <h2>Skills</h2>
-          <table>
-            <tr>
-              <td rowspan="8">
-                <b>Programming Languages</b>
-              </td>
-              <td>C++</td>
-              <td>
-                Medium: good theoretical knowledge and practical experience
-              </td>
-            </tr>
-            <tr>
-              <td>HTML5</td>
-              <td>
-                Medium: good theoretical knowledge and practical experience
-              </td>
-            </tr>
-            <tr>
-              <td>CSS3</td>
-              <td>
-                Medium: good theoretical knowledge and practical experience
-              </td>
-            </tr>
-            <tr>
-              <td>SQL</td>
-              <td>Beginner: basic theoretical knowledge</td>
-            </tr>
-            <tr>
-              <td>GIT</td>
-              <td>
-                Beginner/medium: basic theoretical knowledge and a few practice
-              </td>
-            </tr>
-            <tr>
-              <td>Java Script</td>
-              <td>
-                Medium: good theoretical knowledge and practical experience
-              </td>
-            </tr>
-            <tr>
-              <td>JQuery</td>
-              <td>Medium level</td>
-            </tr>
-            <tr>
-              <td>Understanding OOP</td>
-              <td>Medium level</td>
-            </tr>
-            <tr>
-              <td rowspan="2"><b>Foreign languages</b></td>
-              <td>English</td>
-              <td>B1 Intermediate level (written & spoken)</td>
-            </tr>
-            <tr>
-              <td>Poplish</td>
-              <td>A1 Begginer</td>
-            </tr>
-          </table>
-        </section>
-        <section class="personal-qualities">
-          <h2>Personal qualities</h2>
-          <ul>
-            <li>good communication skills</li>
-            <li>ability to work in team</li>
-            <li>creative thinking skills</li>
-            <li>quick learning skills</li>
-            <li>self-motivated</li>
-            <li>responsibility</li>
-            <li>open-minded</li>
-            <li>attentive</li>
-          </ul>
-        </section>
       </main>
+
+      <footer class="footer">
+        <div class="container">
+          <nav class="footer__nav">
+            <ul class="footer__list">
+              <li class="footer__item">
+                <a href="https://github.com/ivandubrouski">
+                  <i class="fab fa-github"></i
+                ></a>
+              </li>
+              <li class="footer__item">
+                <p>2022</p>
+              </li>
+              <li class="footer__item">
+                <a href="https://rs.school/js/">
+                  <img src="assets/img/rs_school_js.svg" alt="Rolling Scopes" />
+                </a>
+             </li>
+            </ul>
+          </nav>
+        </div>
+      </footer>
     </div>
   </body>
 </html>
